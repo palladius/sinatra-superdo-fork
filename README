@@ -1,0 +1,10 @@
+I forked this project cos I really like the idea.
+
+= INSTALL
+
+$ sudo gem install sinatra
+$ ruby main.rb
+
+= CREDITS
+
+Thanks to  for the original work.
