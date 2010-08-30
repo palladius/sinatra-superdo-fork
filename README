@@ -3,8 +3,8 @@ I forked this project cos I really like the idea.
 = INSTALL
 
 $ sudo aptitude install sqlite3 libsqlite3-ruby
-$ sudo gem install sinatra  dm-sqlite-adapter  data_mapper
-$ ruby main.rb
+$ sudo gem install sinatra  dm-sqlite-adapter  data_mapper sqlite3-ruby
+$ ./main.rb  # made it exectuable :-)
 
 = CREDITS
 

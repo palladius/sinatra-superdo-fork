@@ -1,3 +1,7 @@
+#!/usr/bin/env ruby
+
+	# $Id$
+
 require 'rubygems'
 require 'sinatra'
 require 'dm-core'

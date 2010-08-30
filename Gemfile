@@ -1,2 +1,3 @@
 
-# require Sinatra
+# require Sinatra, ..sqlite3-ruby
+
