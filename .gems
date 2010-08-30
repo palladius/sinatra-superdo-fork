@@ -1,0 +1,4 @@
+
+sinatra
+data_mapper
+dm-postgres-adapter

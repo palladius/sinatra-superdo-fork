@@ -2,7 +2,8 @@ I forked this project cos I really like the idea.
 
 = INSTALL
 
-$ sudo gem install sinatra
+$ sudo aptitude install sqlite3 libsqlite3-ruby
+$ sudo gem install sinatra  dm-sqlite-adapter  data_mapper
 $ ruby main.rb
 
 = CREDITS
