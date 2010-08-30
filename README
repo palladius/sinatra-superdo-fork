@@ -6,6 +6,12 @@ $ sudo aptitude install sqlite3 libsqlite3-ruby
 $ sudo gem install sinatra  dm-sqlite-adapter  data_mapper sqlite3-ruby
 $ ./main.rb  # made it exectuable :-)
 
+= BUGS
+
+Oops, still produces an error when launching:
+
+ undefined method `auto_upgrade!' for DataMapper:Module
+
 = CREDITS
 
 Thanks to http://github.com/daz4126/ (Darren Jones) for the original work.
